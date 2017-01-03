@@ -1,0 +1,6 @@
+1. Download data: https://www.dropbox.com/s/btxpr8c1admjdyo/traffic-signs-data.zip?dl=0
+2. Unzip data into "notebooks" folder
+3. Make sure have Docker installed. 
+4. Run this command from main directory: docker run -it --rm -p 8888:8888 -v -v "$PWD/notebooks":/home/jovyan/work jupyter/tensorflow-notebook
+5. Open localhost:8888
+6. Open Traffic_Sign_Classifier.ipynb
