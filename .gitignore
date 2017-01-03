@@ -1,0 +1,4 @@
+*.p
+notebooks/alex_net
+notebooks/alex_net.meta
+notebooks/checkpoint
