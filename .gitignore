@@ -1,4 +1,4 @@
 *.p
-notebooks/alex_net
-notebooks/alex_net.meta
+notebooks/le_net
+notebooks/le_net.meta
 notebooks/checkpoint
